@@ -112,6 +112,6 @@ Text         7 mins          ░░░░░░░░░░░░░░░░░
 🏆  3 Publications in AI/ML         
 🌸  Completed all tasks today           
 ✅  4/4 GPA and Research Award
-⏳  Got Gangal Scholarship  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+⏳  Got Gangal Scholarship<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 <!-- TODO-IST:END -->
 
