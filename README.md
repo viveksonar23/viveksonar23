@@ -1,6 +1,4 @@
-# Hi there, I'm [Vivek Sonar] 👋
-
-![Banner](https://via.placeholder.com/1200x300?text=AI+in+Healthcare+Research)
+# Hi there, I'm Vivek Sonar👋
 
 ## About Me
 As an AI/ML researcher with 5 years of experience, working on 3D human modeling, large language models (LLMs), Generative AI, and advanced AI/ML techniques to create innovative solutions. 
@@ -14,12 +12,9 @@ I had the opportunity to work with the South Florida Water Management District a
 Previously, I worked as a Software Engineer at KPIT, developing and testing software components using Java, C/C++, Python, and Angular. I contributed to a plugin registry project for vehicle networks, focusing on voice recognition, image processing, and system libraries, earning the "STAR OF THE SPRINT" award. Additionally, I gained experience in robotic development using Docker, SSH, RViz, and Python on Linux platforms. I presented two academic projects using Java, SVM, and MySQL at the International Conference on Innovative Practices in Engineering Technology, and received an outstanding grade for them.
 
 Besides my technical skills, I am also passionate about theatre, and cultural and social activities. I received an award for "The best student in cultural events" in my bachelor's degree, and I conducted a theatre workshop for "underprivileged students" at the Bhumi Foundation in Pune, India.
-
 I am eager to learn new skills, explore new challenges, and collaborate with diverse and talented teams.
 
-
 ## Technical Skills & Tools
-
 ### Programming & Frameworks
 - **Languages:** Python, Java, C, CPP, SQL
 - **Machine Learning & Deep Learning:** TensorFlow, Hugging Face, LLM models, traditional ML models, Biotech Models, Meta Models
@@ -33,7 +28,6 @@ I am eager to learn new skills, explore new challenges, and collaborate with div
 - **NLP:** Natural language processing for healthcare data insights
 - **Human3D:** Advanced modeling techniques for 3D human data
 - **Segmentaiton:** body part segmentation techniques to eliminate background and isolate subjects.
-
 
 ### Professional Affiliations
 - IEEE Member
