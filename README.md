@@ -33,6 +33,15 @@ I'm an AI/ML researcher specializing in applying artificial intelligence and mac
 ![SQL](https://img.shields.io/badge/SQL-Database-red?style=flat-square)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Pandas-blue?style=flat-square)
 ![IEEE](https://img.shields.io/badge/IEEE-Member-blue?style=flat-square)
+![ACM](https://img.shields.io/badge/ACM-Member-blue?style=flat-square)
+![Tau Beta Pi](https://img.shields.io/badge/Tau%20Beta%20Pi-Honorary-brightgreen?style=flat-square)
+![AI Researcher](https://img.shields.io/badge/AI%20Researcher-Expert-red?style=flat-square)
+![Microsoft AI Foundation](https://img.shields.io/badge/Microsoft%20AI%20Foundation-Supported-blueviolet?style=flat-square)
+![Responsible Conduct Research](https://img.shields.io/badge/Responsible%20Conduct%20Research-Certified-orange?style=flat-square)
+![CITI](https://img.shields.io/badge/CITI-Completed-yellowgreen?style=flat-square)
+![All of Us Research](https://img.shields.io/badge/All%20of%20Us%20Research-Inclusive-success?style=flat-square)
+![AI in Healthcare](https://img.shields.io/badge/AI%20in%20Healthcare-Innovative-brightgreen?style=flat-square)
+![Winner Biotech Hackathon](https://img.shields.io/badge/Winner-Biotech%20Hackathon-orange?style=flat-square)
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
