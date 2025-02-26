@@ -108,11 +108,10 @@ LLM Models       10 mins         ▒░░░░░░░░░░░░░░�
 Text         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 <!--END_SECTION:waka-->
-🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  3 Publications in AI/ML         
 🌸  Completed all tasks today           
-✅  4 GPA and Research Award
+✅  4/4 GPA and Research Award
 ⏳  Got Gangal Scholarship  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 <!-- TODO-IST:END -->
 
