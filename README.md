@@ -2,7 +2,9 @@
 
 ## About Me
 I'm an AI/ML researcher specializing in applying artificial intelligence and machine learning. I focus on developing innovative deep learning and generative AI solutions to address complex challenges in medical data analysis, patient care optimization, and beyond. My work combines rigorous research with practical engineering skills to push the boundaries of what's possible in AI/ML technology.
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 ## Technical Skills & Tools
 ### Programming & Frameworks
 - **Languages:** Python, Java, C, CPP, SQL
