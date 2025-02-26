@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com/viveksonar23">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Vivek Sonar" /></a>
-</p>
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ## About Me
@@ -71,6 +66,9 @@ I'm an AI/ML researcher specializing in applying artificial intelligence and mac
 ## Connect With Me
 <p><a href="https://github.com/viveksonar23" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/viveksonar23/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+Like My Work?
+<a href="https://buymeacoffee.com/viveksonarf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 *“Advancing healthcare through innovative AI solutions.”*
 for work? do reach, [email](mailto:viveksonarms@gmail.com) :)
