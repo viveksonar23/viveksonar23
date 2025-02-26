@@ -1,18 +1,7 @@
-# Hi there, I'm Vivek Sonar👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ## About Me
-As an AI/ML researcher with 5 years of experience, working on 3D human modeling, large language models (LLMs), Generative AI, and advanced AI/ML techniques to create innovative solutions. 
-Weight and Height Estimation in Hospital Emergency Condition:- Using AI and 3D modeling, I've developed solutions for accurately estimating body metrics with a single 3D camera. 
-Gait Analysis and Fall Detection:- Working on an AI-driven project to analyze human gait and detect falls, aiming to assist in emergency scenarios.
-I'm leading the development of backend systems, Python programming, machine learning models, and web-based applications to bring these solutions to life.
-Published 3 research papers in this domain, contributing to advancements in AI-powered healthcare. It’s making a difference in critical areas like patient safety and emergency care.
-
-I had the opportunity to work with the South Florida Water Management District as a Research Assistant, where I developed an ML tool tailored to their needs. This tool was instrumental in identifying outliers and detecting anomalies in hydrological data, contributing to improved water management. 
-
-Previously, I worked as a Software Engineer at KPIT, developing and testing software components using Java, C/C++, Python, and Angular. I contributed to a plugin registry project for vehicle networks, focusing on voice recognition, image processing, and system libraries, earning the "STAR OF THE SPRINT" award. Additionally, I gained experience in robotic development using Docker, SSH, RViz, and Python on Linux platforms. I presented two academic projects using Java, SVM, and MySQL at the International Conference on Innovative Practices in Engineering Technology, and received an outstanding grade for them.
-
-Besides my technical skills, I am also passionate about theatre, and cultural and social activities. I received an award for "The best student in cultural events" in my bachelor's degree, and I conducted a theatre workshop for "underprivileged students" at the Bhumi Foundation in Pune, India.
-I am eager to learn new skills, explore new challenges, and collaborate with diverse and talented teams.
+I'm an AI/ML researcher specializing in applying artificial intelligence and machine learning. I focus on developing innovative deep learning and generative AI solutions to address complex challenges in medical data analysis, patient care optimization, and beyond. My work combines rigorous research with practical engineering skills to push the boundaries of what's possible in AI/ML technology.
 
 ## Technical Skills & Tools
 ### Programming & Frameworks
@@ -75,8 +64,8 @@ I am eager to learn new skills, explore new challenges, and collaborate with div
 - **Open Source Contributions:** Actively involved in projects that advance ML, NLP, and data visualization.
 
 ## Connect With Me
-- **[LinkedIn](https://www.linkedin.com/in/viveksonar23/)**
-- **[GitHub](https://github.com/viveksonar23/)**
+<p><a href="https://github.com/viveksonar23" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/viveksonar23/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 For more details about my work, check out my [personal website](https://example.com) or explore my published research and contributions on IEEE.
 
