@@ -1,4 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙑𝙞𝙫𝙚𝙠 𝙎𝙤𝙣𝙖𝙧
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Nice to see you.</h1>
 
 ## About Me
 I'm an AI/ML researcher specializing in applying artificial intelligence and machine learning. I focus on developing innovative deep learning and generative AI solutions to address complex challenges in medical data analysis, patient care optimization, and beyond. My work combines rigorous research with practical engineering skills to push the boundaries of what's possible in AI/ML technology.
