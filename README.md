@@ -72,7 +72,7 @@ I'm an AI/ML researcher specializing in applying artificial intelligence and mac
 Like My Work? <a href="https://buymeacoffee.com/viveksonarf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 *“Advancing healthcare through innovative AI solutions.”*
-for work? do reach, [email](mailto:viveksonarms@gmail.com) :)
+for work? do reach, [email](mailto:viveksonarms@gmail.com) :) <a<img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 📊 **This week I spent my time on:** <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <!--START_SECTION:waka-->
@@ -84,14 +84,12 @@ JSON         11 mins         ▒░░░░░░░░░░░░░░░░
 LLM Models       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 Text         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
-
 <!--END_SECTION:waka-->
-
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  3 Publications in AI/ML         
 🌸  Completed all tasks today           
-✅  4 GPA and Research Award                          <a<img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+✅  4 GPA and Research Award
 ⏳  Got Gangal Scholarship  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 <!-- TODO-IST:END -->
 
