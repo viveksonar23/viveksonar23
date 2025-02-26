@@ -43,7 +43,6 @@ I'm an AI/ML researcher specializing in applying artificial intelligence and mac
 - ACM Member
 - Tau-Beta-Pi Member
 
-
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -81,8 +80,8 @@ I'm an AI/ML researcher specializing in applying artificial intelligence and mac
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-  
 </p>
+
 ## Featured Projects
 - **Healthcare AI Solutions:** Developing predictive models to enhance patient care and streamline clinical workflows.
 - **Generative AI Applications:** Creating innovative applications powered by the latest generative models.
