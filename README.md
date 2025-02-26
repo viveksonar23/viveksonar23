@@ -72,7 +72,7 @@ Like My Work? <a href="https://buymeacoffee.com/viveksonarf" target="_blank"><im
 *“Advancing healthcare through innovative AI solutions.”*
 for work? do reach, [email](mailto:viveksonarms@gmail.com) :)
 
-📊 **This week I spent my time on:**
+📊 **This week I spent my time on:** <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <!--START_SECTION:waka-->
 
 ```txt
