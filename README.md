@@ -6,6 +6,23 @@ I'm an AI/ML researcher specializing in applying artificial intelligence and mac
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
+### Badges
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.x-orange?style=flat-square)
+![Java](https://img.shields.io/badge/Java-8%2B-green?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-Database-red?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data%20Science-Pandas-blue?style=flat-square)
+![IEEE](https://img.shields.io/badge/IEEE-Member-blue?style=flat-square)
+![ACM](https://img.shields.io/badge/ACM-Member-blue?style=flat-square)
+![Tau Beta Pi](https://img.shields.io/badge/Tau%20Beta%20Pi-Honorary-brightgreen?style=flat-square)
+![AI Researcher](https://img.shields.io/badge/AI%20Researcher-Expert-red?style=flat-square)
+![Microsoft AI Foundation](https://img.shields.io/badge/Microsoft%20AI%20Foundation-Supported-blueviolet?style=flat-square)
+![Responsible Conduct Research](https://img.shields.io/badge/Responsible%20Conduct%20Research-Certified-orange?style=flat-square)
+![CITI](https://img.shields.io/badge/CITI-Completed-yellowgreen?style=flat-square)
+![All of Us Research](https://img.shields.io/badge/All%20of%20Us%20Research-Inclusive-success?style=flat-square)
+![AI in Healthcare](https://img.shields.io/badge/AI%20in%20Healthcare-Innovative-brightgreen?style=flat-square)
+![Winner Biotech Hackathon](https://img.shields.io/badge/Winner-Biotech%20Hackathon-orange?style=flat-square)
+
 ## Technical Skills & Tools
 ### Programming & Frameworks
 - **Languages:** Python, Java, C, CPP, SQL
@@ -26,22 +43,7 @@ I'm an AI/ML researcher specializing in applying artificial intelligence and mac
 - ACM Member
 - Tau-Beta-Pi Member
 
-### Badges
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.x-orange?style=flat-square)
-![Java](https://img.shields.io/badge/Java-8%2B-green?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-Database-red?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data%20Science-Pandas-blue?style=flat-square)
-![IEEE](https://img.shields.io/badge/IEEE-Member-blue?style=flat-square)
-![ACM](https://img.shields.io/badge/ACM-Member-blue?style=flat-square)
-![Tau Beta Pi](https://img.shields.io/badge/Tau%20Beta%20Pi-Honorary-brightgreen?style=flat-square)
-![AI Researcher](https://img.shields.io/badge/AI%20Researcher-Expert-red?style=flat-square)
-![Microsoft AI Foundation](https://img.shields.io/badge/Microsoft%20AI%20Foundation-Supported-blueviolet?style=flat-square)
-![Responsible Conduct Research](https://img.shields.io/badge/Responsible%20Conduct%20Research-Certified-orange?style=flat-square)
-![CITI](https://img.shields.io/badge/CITI-Completed-yellowgreen?style=flat-square)
-![All of Us Research](https://img.shields.io/badge/All%20of%20Us%20Research-Inclusive-success?style=flat-square)
-![AI in Healthcare](https://img.shields.io/badge/AI%20in%20Healthcare-Innovative-brightgreen?style=flat-square)
-![Winner Biotech Hackathon](https://img.shields.io/badge/Winner-Biotech%20Hackathon-orange?style=flat-square)
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -57,7 +59,6 @@ I'm an AI/ML researcher specializing in applying artificial intelligence and mac
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img src="https://img.icons8.com/emoji/96/hugging-face.png" alt="huggingface"/>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
