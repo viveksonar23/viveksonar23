@@ -67,12 +67,7 @@ I'm an AI/ML researcher specializing in applying artificial intelligence and mac
 <p><a href="https://github.com/viveksonar23" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/viveksonar23/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-For more details about my work, check out my [personal website](https://example.com) or explore my published research and contributions on IEEE.
-
----
-
 *“Advancing healthcare through innovative AI solutions.”*
-
 for work? do reach, [email](mailto:viveksonarms@gmail.com) :)
 
 📊 **This week I spent my time on:**
